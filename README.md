@@ -97,9 +97,6 @@ docker run -p 3306:3306 --name mysql_57 -e MYSQL_ROOT_PASSWORD=1234 -d mysql:5.7
 MYSQL_USER=root MYSQL_PASSWORD=1234 HOSTNAME=localhost npm test
 ```
 
-<details>
-  ---
-
 ## Desafios
 <details>
 1 - Exiba apenas os nomes dos produtos na tabela `products`.
