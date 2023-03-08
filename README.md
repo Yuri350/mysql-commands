@@ -1,7 +1,7 @@
 # MySql - All for One
 
 # Contexto
-O `All for One` é um conjunto de Comandos em MySql para resolver desafios! ⚽️
+O `All for One` é um conjunto de Comandos em MySql para resolver desafios! <br>
 Possui 27 desafios como Filtragem de dados, Manipulação de tabelas, Exibir e puxar informações específicas.
 
 # Orientações
